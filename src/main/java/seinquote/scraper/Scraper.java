@@ -1,5 +1,6 @@
 package scraper;
 
+
 public class Scraper {
 
     private String keyphrase;
